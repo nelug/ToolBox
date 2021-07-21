@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: #e4e4e4;
+  height: 100vh;
+}
+
+
+.container-data{
+  height: 50vh;
+  background-color: white;
+  margin-top: 25px;
+  padding: 25px;
+}
+
+.text-result {
+  border: 1px solid #e4e4e4;
+  border-radius: 5px;
+  text-align: start;
+  margin-top: 5px !important;
+}
+ 
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
